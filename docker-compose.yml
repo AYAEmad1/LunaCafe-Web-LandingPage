@@ -1,0 +1,8 @@
+services:
+  web:
+    build: .
+    container_name: luna-cafe-web
+    ports:
+      - "8080:80"
+    restart: unless-stopped
+    
