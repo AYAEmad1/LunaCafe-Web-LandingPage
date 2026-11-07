@@ -3,7 +3,7 @@
 .gitignore
 docs
 README.md
-LICENSE
+
 Dockerfile
 .dockerignore
 .DS_Store
